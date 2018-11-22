@@ -1,4 +1,5 @@
 # Catalog Project
+![](catalog_demo.gif)
 ## Installaiton
 * Environement Setup
     * After access the vagrant VM with `vagrant ssh`. Simply run `pip install -r requirements.txt`
